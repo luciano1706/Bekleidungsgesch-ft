@@ -1,0 +1,1 @@
+$(document).ready(function(){new Swiper(".js-reminder__slider",{pagination:".js-reminder-pagination",paginationClickable:!0,autoplay:5e3,autoplayDisableOnInteraction:!0,speed:3e3,spaceBetween:0,loop:!0,allowSwipeToNext:!1,allowSwipeToPrev:!1,slidesPerView:3,slidesPerGroup:1,breakpoints:{992:{slidesPerView:1,slidesPerGroup:1,allowSwipeToNext:!0,allowSwipeToPrev:!0}}})});
